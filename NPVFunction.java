@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 //Simple NPV calculator I created for my Corporate Finance class to make HW shorter
-/*public class NPVFunction {
+public class NPVFunction {
 
  
   
@@ -52,7 +52,7 @@ import java.util.Scanner;
             }
         }
     }
-}*/
+}
 /*for (double i: aryNums) {
            
          System.out.println(total);<<<enhanced loop. In case you want to continue using NPV, such as finding IRR
